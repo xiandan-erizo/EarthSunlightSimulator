@@ -1,0 +1,5 @@
+{
+  "name": "TerraLux 3D - 地球日照模拟器",
+  "description": "一个交互式3D地球应用，展示实时的日照线（Terminator Line）。利用 Gemini API 分析特定时间点的日照情况、日出日落城市及季节性特征。",
+  "requestFramePermissions": []
+}
